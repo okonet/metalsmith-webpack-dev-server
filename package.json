@@ -1,6 +1,6 @@
 {
   "name": "metalsmith-webpack-dev-server",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Starts webpack dev server when running metalsmith",
   "main": "index.js",
   "scripts": {
