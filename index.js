@@ -31,12 +31,6 @@ module.exports = function(config, opts) {
         })
     }
 
-    process.shutdown = function(done) {
-        server.close(function() {
-            done()
-        })
-    }
-
     return process
 }
 
