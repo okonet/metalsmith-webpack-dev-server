@@ -22,7 +22,7 @@ module.exports = function(config, opts) {
 
         server = new WebpackDevServer(compiler, options)
 
-        server.listen(options.port || 8081, "localhost", function() {
+        server.listen(options.port || 8081, options.host, function() {
             console.log(
                 chalk.blue('[metalsmith-webpack-dev-server]: ') +
                 chalk.green("Running webpack dev server at http://" + options.host + ":" + options.port)
