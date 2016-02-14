@@ -1,5 +1,5 @@
 # metalsmith-webpack-dev-server
-A metalsmith plugin to start [webpack-dev-server](https://github.com/webpack/webpack-dev-server) to use in development.
+A metalsmith plugin to start [webpack-dev-server](https://github.com/webpack/webpack-dev-server) to use in development. Best used together with [metalsmith-webpack](https://github.com/christophercliff/metalsmith-webpack).
 
 ## Installation
 
