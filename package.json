@@ -1,0 +1,33 @@
+{
+  "name": "metalsmith-webpack-dev-server",
+  "version": "1.0.0",
+  "description": "Starts webpack dev server when running metalsmith",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okonet/metalsmith-webpack-dev-server.git"
+  },
+  "keywords": [
+    "metalsmith",
+    "plugin",
+    "webpack",
+    "webpack-dev-server",
+    "server",
+    "development"
+  ],
+  "author": "Andrey Okonetchnikov <andrey@okonet.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/okonet/metalsmith-webpack-dev-server/issues"
+  },
+  "homepage": "https://github.com/okonet/metalsmith-webpack-dev-server#readme",
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "metalsmith": "^1.7.0",
+    "webpack": "^1.12.13",
+    "webpack-dev-server": "^1.14.1"
+  }
+}
