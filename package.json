@@ -26,8 +26,8 @@
   "homepage": "https://github.com/okonet/metalsmith-webpack-dev-server#readme",
   "dependencies": {
     "chalk": "^1.1.1",
-    "metalsmith": "^1.7.0",
+    "metalsmith": "^2.2.0",
     "webpack": "^1.12.13",
-    "webpack-dev-server": "^1.14.1"
+    "webpack-dev-server": "^1.15.0"
   }
 }
